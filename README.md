@@ -13,6 +13,25 @@ Before pivoting into data science, I spent over a decade in **web and mobile sta
 
 Now, I'm bringing that product and engineering background into the world of data.
 
+### 🛠 Projects
+
+#### 🔮 Next Word Prediction App
+
+A Shiny web application that predicts the next word in a sequence of English text using **Kneser-Ney-smoothed n-gram language models** (bigrams to fivegrams). The app includes:
+
+- An interactive UI with real-time predictions
+    
+- A backend powered by preprocessed corpora and optimized SQLite queries
+    
+- Optional Markov chain visualizations of text structure
+    
+- Perplexity metrics for evaluation
+    
+
+🖥️ **Live App**: [Next Word Predictor on Shiny](https://lxeimz-doron-fingold.shinyapps.io/simple_word_prediction/)  
+🧾 **Project Presentation**: [Slides](https://rpubs.com/DoronF/word_predictor)
+
+Technologies: `R`, `Shiny`, `SQLite`, `tidyverse`, `textclean`, `textstem`, `Kneser-Ney smoothing`
 <!--
 **DoronF/DoronF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
