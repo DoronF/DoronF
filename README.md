@@ -38,6 +38,27 @@ Technologies: `R`, `Shiny`, `SQLite`, `tidyverse`, `textclean`, `textstem`, `Kne
     
 - **Efficient text preprocessing and query optimization** were essential to making the app run on **limited hardware** (8GB RAM, 2017 MacBook Air), which involved aggressive normalization, indexed lookups, and careful memory use.
 
+#### 🥏 Disc Golf Course Explorer (Shiny App)
+
+**Explore and compare disc golf courses across the U.S. using interactive maps and visualizations.**
+
+- Built with **R Shiny**, **Leaflet**, and **ggplot2** to create an intuitive app for browsing, filtering, and analyzing over 7,000 disc golf courses.
+    
+- Users can:
+    
+    - Filter courses by state
+        
+    - View location details and links via popups
+        
+    - Jump to a random course with a smooth map animation
+        
+    - Compare course ratings to state or national distributions using dynamic histograms
+        
+- Integrated external datasets and designed custom icons for a polished user experience.
+    
+
+🔗 [Live App](https://lxeimz-doron-fingold.shinyapps.io/CourseRating/)  
+📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/lanekatris/pdga-united-states-disc-golf-courses)
 <!--
 **DoronF/DoronF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
