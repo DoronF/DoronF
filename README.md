@@ -59,17 +59,18 @@ Technologies: `R`, `Shiny`, `SQLite`, `tidyverse`, `textclean`, `textstem`, `Kne
 
 🔗 [Live App](https://lxeimz-doron-fingold.shinyapps.io/CourseRating/)  
 📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/lanekatris/pdga-united-states-disc-golf-courses)
-<!--
-**DoronF/DoronF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 SpaceX Launch Success Prediction (ML Model)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Built a supervised machine learning model to predict the success of SpaceX Falcon 9 launches.**
+
+- Explored and visualized SpaceX launch data using **pandas**, **matplotlib**, **seaborn**, and **plotly**.
+    
+- Engineered features from categorical launch attributes including launch site, payload mass, and booster version.
+    
+- Trained and evaluated several classification models (**Logistic Regression**, **Random Forest**, **SVM**, **KNN**) to determine the likelihood of a successful landing.
+    
+- Tuned hyperparameters and assessed performance using metrics like **accuracy**, **F1 score**, and **confusion matrix**.
+    
+
+📓 [Notebook on GitHub](https://github.com/DoronF/IBM_DS_Capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
