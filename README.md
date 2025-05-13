@@ -13,9 +13,9 @@ Before pivoting into data science, I spent over two decades in **web and mobile 
   
 Now, I'm bringing that product and engineering background into the world of data.
 
-### 🛠 Projects
+## 🛠 Projects
 
-#### 🔮 Next Word Prediction App
+### 🔮 Next Word Prediction App
 
 A Shiny web application that predicts the next word in a sequence of English text using **Kneser-Ney-smoothed n-gram language models** (bigrams to fivegrams). The app includes:
 
@@ -38,7 +38,8 @@ Technologies: `R`, `Shiny`, `SQLite`, `tidyverse`, `textclean`, `textstem`, `Kne
     
 - **Efficient text preprocessing and query optimization** were essential to making the app run on **limited hardware** (8GB RAM, 2017 MacBook Air), which involved aggressive normalization, indexed lookups, and careful memory use.
 
-#### 🥏 Disc Golf Course Explorer (Shiny App)
+
+### 🥏 Disc Golf Course Explorer (Shiny App)
 
 **Explore and compare disc golf courses across the U.S. using interactive maps and visualizations.**
 
@@ -59,6 +60,7 @@ Technologies: `R`, `Shiny`, `SQLite`, `tidyverse`, `textclean`, `textstem`, `Kne
 
 🔗 [Live App](https://lxeimz-doron-fingold.shinyapps.io/CourseRating/)  
 📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/lanekatris/pdga-united-states-disc-golf-courses)
+
 
 ### 🚀 SpaceX Launch Success Prediction (ML Model)
 
